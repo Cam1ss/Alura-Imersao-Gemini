@@ -1,12 +1,10 @@
 <div align="center">
 
-<h1> ﾟ･:* Alura - FrontAnd *:･ﾟ </h1>
+<h1> ✨ Alura - FrontAnd ✨ </h1>
 
-<img width="80%" src="https://github.com/user-attachments/assets/92dd5991-220e-420f-b77a-78b4af66e62b">
+<img width="80%" src="https://github.com/user-attachments/assets/37664c7f-8e26-47ae-86cb-9f89846cd28a">
 
 <a href=""  target="_blank">link para acessar o site</a>
 
 </div>
-
-
 
