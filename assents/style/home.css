@@ -8,7 +8,7 @@
  }
 
  body {
-    background-image: url('https://cam1ss.github.io/Alura-Imersao-Gemini/assents/img/fundo.png');
+    background-image: url('/fundo.png');
     font-family: "Poppins", sans-serif;
     background-repeat: no-repeat;
     background-size: auto;
