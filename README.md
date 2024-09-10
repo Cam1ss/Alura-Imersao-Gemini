@@ -20,7 +20,7 @@
 
 - Google Gemini para auxiliar em algumas duvidas e códigos
 
-<img width="20px" src="https://github.com/user-attachments/assets/d69f9e84-53d6-4482-b64c-42f0d7e19c6d">
+<img width="30rem" src="https://github.com/user-attachments/assets/d69f9e84-53d6-4482-b64c-42f0d7e19c6d">
 
 <h2> 🛠 :: Ferramentas Utilizadas </h2>
 
