@@ -8,7 +8,6 @@
  }
 
  body {
-    background-image: url('/fundo.png');
     font-family: "Poppins", sans-serif;
     background-repeat: no-repeat;
     background-size: auto;
@@ -131,8 +130,8 @@
 }
 
 .card img {
-  width: 15vw;
-  height: 13vw;
+  width: 12rem;
+  height: 10rem;
   margin-bottom: 10px;
 }
 
